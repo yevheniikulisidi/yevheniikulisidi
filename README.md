@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Swetrix API](https://github.com/Swetrix/swetrix-api)
 
-- 🌱 I’m currently learning **NestJS and Kubernetes**
-
 - 📫 How to reach me **yevheniikulisidi@protonmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
