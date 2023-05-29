@@ -3,4 +3,6 @@
 
 - 🔭 I’m currently working on [Swetrix API](https://github.com/Swetrix/swetrix-api)
 
+- 🐾 Check out my pet project [Blog API](https://github.com/yevheniikulisidi/blog-api)
+
 - 📫 How to reach me **yevheniikulisidi@protonmail.com**
