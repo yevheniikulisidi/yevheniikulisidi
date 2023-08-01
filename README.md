@@ -38,3 +38,14 @@
   <img src="images/icons/redis.png" alt="Redis" height="48" width="48" />
   <img src="images/icons/rabbitmq.png" alt="RabbitMQ" height="48" width="48" />
 </p>
+
+<h1>More tools:</h1>
+<p>
+  <img
+    src="images/icons/visualstudiocode.png"
+    alt="Visual Studio Code"
+    height="48"
+    width="48"
+  />
+  <img src="images/icons/postman.png" alt="Postman" height="48" width="48" />
+</p>
