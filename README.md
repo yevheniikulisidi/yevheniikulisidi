@@ -68,6 +68,9 @@
       width="48"
     />
   </a>
+  <a href="https://angular.io/" target="_blank" style="text-decoration: none">
+    <img src="images/icons/angular.png" alt="Angular" height="48" width="48" />
+  </a>
 </p>
 
 <h1>More tools:</h1>
