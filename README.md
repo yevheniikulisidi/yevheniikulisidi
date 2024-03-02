@@ -2,7 +2,7 @@
 
 I'm Yevhenii Kulisidi, a driven self-taught developer mastering the art of back-end magic to craft powerful APIs.
 
-🛠️ **Tech Stack**: TypeScript | NestJS | PostgreSQL | Redis | RabbitMQ
+🛠️ **Tech Stack**: TypeScript | NestJS | PostgreSQL | Redis | RabbitMQ | Angular
 
 ### What I'm up to
 
