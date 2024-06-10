@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
-I'm Yevhenii Kulisidi, a driven self-taught developer mastering the art of back-end magic to craft powerful APIs.
+I'm Yevhenii Kulisidi, a passionate developer specializing in backend development to create robust and scalable APIs.
 
-🛠️ **Tech Stack**: TypeScript | NestJS | PostgreSQL | Redis | RabbitMQ | Angular
+🛠️ **Tech Stack**: TypeScript | Node.js | NestJS | PostgreSQL | Redis
 
 ### What I'm up to
 
@@ -12,4 +12,4 @@ I'm Yevhenii Kulisidi, a driven self-taught developer mastering the art of back-
 
 ### Contact
 
-📧 Reach out to me via email: yevheniikulisidi@protonmail.com
+📧 Reach out to me via email: yevhenii@kulisidi.com
